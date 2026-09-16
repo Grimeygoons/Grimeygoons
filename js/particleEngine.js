@@ -1,0 +1,1 @@
+const canvas=document.getElementById('loaderCanvas');const ctx=canvas.getContext('2d');function r(){canvas.width=innerWidth;canvas.height=innerHeight;}r();addEventListener('resize',r);console.log('Particle engine ready');
