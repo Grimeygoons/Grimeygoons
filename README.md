@@ -2,6 +2,6 @@
 - 👀 I’m interested in Music and Art development 
 - 🌱 
 - 💞️ 
-- 📫 How to reach me 
+- 📫 Reach out on any platform.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Just a small business  
