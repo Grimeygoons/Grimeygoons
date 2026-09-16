@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Grimeygoons DJ/Music producer due from the Midwest. 
+- 👋 Hi, I’m @Grimeygoons DJ/Music producer duo from the Midwest. 
 - 👀 I’m interested in Music and Art development 
 - 🌱 We’re just two guys trying to have a good time with music.
 - 💞️ Our love is Music. (Graphic design is my passion.😉)
