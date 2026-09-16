@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Grimeygoons DJ/Music producer due from the Midwest. 
 - 👀 I’m interested in Music and Art development 
 - 🌱 We’re just two guys trying to have a good time with music.
-- 💞️ Our love is Music. (My passion is graphic design.😉)
+- 💞️ Our love is Music. (Graphic design is my passion.😉)
 - 📫 Reach out on any platform.
 - 😄 Pronouns: Them/They
 - ⚡ Fun fact: D-HIGH-C and heinaus
